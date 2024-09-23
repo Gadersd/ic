@@ -36,6 +36,7 @@ The runtime evaluates interaction combinator expressions using graph rewrite rul
 
 <alphanumeric> ::= [a-zA-Z0-9_./-]+
 ```
+from the HVM2 paper, as described in "HVM2: A PARALLEL EVALUATOR FOR INTERACTION COMBINATORS" by Victor Taelin, available at https://github.com/HigherOrderCO/HVM/blob/main/paper/HVM2.pdf.
 
 ### Example Usage
 
